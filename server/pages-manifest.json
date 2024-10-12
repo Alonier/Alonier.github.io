@@ -1,0 +1,15 @@
+{
+  "/01": "pages/01.html",
+  "/02-1": "pages/02-1.html",
+  "/02-3": "pages/02-3.html",
+  "/02-4": "pages/02-4.html",
+  "/02-5": "pages/02-5.html",
+  "/04-1": "pages/04-1.html",
+  "/_app": "pages/_app.js",
+  "/boards/new": "pages/boards/new.html",
+  "/": "pages/index.html",
+  "/quiz": "pages/quiz.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
